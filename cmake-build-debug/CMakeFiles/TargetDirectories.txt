@@ -1,0 +1,3 @@
+/home/reaksa/Documents/C Programing/Ep02-2024-ITE/cmake-build-debug/CMakeFiles/Ep02_2024_ITE.dir
+/home/reaksa/Documents/C Programing/Ep02-2024-ITE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reaksa/Documents/C Programing/Ep02-2024-ITE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
